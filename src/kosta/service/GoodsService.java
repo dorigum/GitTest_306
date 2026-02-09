@@ -12,5 +12,11 @@ public class GoodsService {
 	
 	public void update() {
 		System.out.println("local에서 update 수정");
+
+	}
+	
+	public void delete() {
+	System.out.println("remote에서 delete 수정");
+
 	}
 }
