@@ -9,4 +9,8 @@ public class GoodsService {
 		System.out.print("select");
 		System.out.println("시나리오 3번 test");
 	}
+	
+	public void delete() {
+	System.out.println("remote에서 delete 수정");
+	}
 }
