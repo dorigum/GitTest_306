@@ -9,6 +9,6 @@ public class GoodsController {
     }
 
     public void selectAll() {
-        
+    	System.out.println("곧 집에 간다~~~~");
     }
 }
